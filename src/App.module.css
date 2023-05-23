@@ -1,0 +1,8 @@
+.main_container {
+    position: relative;
+    color: #fff;
+    width: 100%;
+    max-width: 860px;
+    margin: auto;
+    padding: 0 0 25px;
+}
